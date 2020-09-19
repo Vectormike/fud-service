@@ -18,6 +18,11 @@ List of available routes:
 `PATCH /v1/users/:userId` - update user\
 `DELETE /v1/users/:userId` - delete user
 
+**Service routes**:\
+`POST /v1/services` - create a service\
+`GET /v1/services` - get all services\
+`GET /v1/services/:serviceId` - get service\
+
 ## License
 
 [MIT](LICENSE)

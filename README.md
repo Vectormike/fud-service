@@ -22,6 +22,8 @@ List of available routes:
 `POST /v1/services` - create a service\
 `GET /v1/services` - get all services\
 `GET /v1/services/:serviceId` - get service\
+`PUT /v1/services/:serviceId` - update service\
+`DELETE /v1/services/:serviceId` - delete service\
 
 ## License
 
